@@ -1,4 +1,4 @@
-# 🧥 Harry Potter Invisible Cloak (Blue Cloak Edition)
+# 🧥 Harry Potter Invisible Cloak (Cloak Edition)
 
 This project recreates the famous **Harry Potter Invisible Cloak** using **Computer Vision (OpenCV)**.  
 By wearing a **blue-colored cloak**, the region gets replaced with the background — making the cloak appear invisible in real-time! ⚡
